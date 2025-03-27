@@ -1,0 +1,20 @@
+2025-03-27 00:51:16,900 - INFO - Starting generation for project 12
+2025-03-27 00:51:17,088 - WARNING - Font Calibri not found, using default
+2025-03-27 00:51:17,119 - ERROR - Error processing field 'first_name': invalid literal for int() with base 16: ''
+2025-03-27 00:51:17,985 - WARNING - Font Calibri not found, using default
+2025-03-27 00:51:17,986 - ERROR - Error processing field 'first_name': invalid literal for int() with base 16: ''
+2025-03-27 00:51:18,833 - WARNING - Font Calibri not found, using default
+2025-03-27 00:51:18,834 - ERROR - Error processing field 'first_name': invalid literal for int() with base 16: ''
+2025-03-27 00:51:19,676 - WARNING - Font Calibri not found, using default
+2025-03-27 00:51:19,678 - ERROR - Error processing field 'first_name': invalid literal for int() with base 16: ''
+2025-03-27 00:51:20,543 - WARNING - Font Calibri not found, using default
+2025-03-27 00:51:20,545 - ERROR - Error processing field 'first_name': invalid literal for int() with base 16: ''
+2025-03-27 00:51:21,389 - WARNING - Font Calibri not found, using default
+2025-03-27 00:51:21,391 - ERROR - Error processing field 'first_name': invalid literal for int() with base 16: ''
+2025-03-27 00:51:22,241 - WARNING - Font Calibri not found, using default
+2025-03-27 00:51:22,242 - ERROR - Error processing field 'first_name': invalid literal for int() with base 16: ''
+2025-03-27 00:51:23,087 - WARNING - Font Calibri not found, using default
+2025-03-27 00:51:23,089 - ERROR - Error processing field 'first_name': invalid literal for int() with base 16: ''
+2025-03-27 00:51:23,942 - WARNING - Font Calibri not found, using default
+2025-03-27 00:51:23,943 - ERROR - Error processing field 'first_name': invalid literal for int() with base 16: ''
+2025-03-27 00:51:24,664 - INFO - Successfully generated 9/9 certificates
